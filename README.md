@@ -21,12 +21,15 @@ I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**
 ---
 
 # 💻 Tech Stack:
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazonaws&logoColor=white) 
+**☁️ Cloud**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazonaws&logoColor=white)
+[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
-**Languages**    
+**🧑‍💻 Languages**    
 ![Python](https://img.shields.io/badge/python-3670A0?s&logo=python&logoColor=ffdd54) 
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -43,16 +46,11 @@ I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%231572B6.svg?&logoColor=white) 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-**Containerization & Orchestration**  
-[![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-
 **🤖 LLM**  
 [![Claude Code CLI](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
 
-**Libraries & Tools**  
+**💻 Libraries & Tools**  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 
