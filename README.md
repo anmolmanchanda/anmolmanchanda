@@ -1,7 +1,24 @@
-# 💫 About Me:
-Hello! I’m a **Cloud Architect & AI Engineer** with a strong background in **Computer Engineering** and a **Post Grad from Conestoga College, Waterloo**.  
+<div align='center'>
+
+## 💻 Cloud Architect & AI Engineer ⚙️
+
+### Full Stack Software Engineer at United Nations-Habitat
+<div align="center">
+<img src="./unh-logo.png" width="50%" alt="UN-Habitat" />
+</div>
+
+### Hyperledger Fabric Architect & Mobile developer at Region of Waterloo - Smart Waterloo Region Innovation Lab
+<div align="center">
+<img align="center" src="./swr-logo.jpg" width="40%" alt="SWRIL" />
+</div>
+</div>
+
+<br>
+
+Strong background in **Computer Engineering** and a **Post Grad from Conestoga College, Waterloo**.  
 
 I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**. My work spans from **500TB+ Geospatial Mobile Ping Analytics Pipeline** at the UN, to **Designing Hyperledger Fabric Architecture**, to **deploying Chatbots & AI Agents with RAG, Vector DB & Embedding** as a personal project.  
+
 
 💼 **Experience includes**:  
 - 🌍 **UN-Habitat (Quality of Life Initiative)** – Architected 500TB+ scalable automated secure cloud infrastructure on AWS, running Data ETL pipeline for geospatial mobile ping data across the globe. And Visualizing dashboards for 20+ UN admins on AWS QuickSight.  
@@ -20,7 +37,15 @@ I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: Languages, Tools, and Technologies  
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50rem" height="50rem" /> 
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="50rem" height="45rem" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50rem" height="50rem" />
+
+
+</div>
+
 **☁️ Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazonaws&logoColor=white)
 [![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
@@ -69,3 +94,22 @@ I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
 
 ---
+
+# 📊 Programming Stats
+
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmanchanda&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark">
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolmanchanda&hide=makefile,powershell,html,css&layout=compact&langs_count=10&theme=dark" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=anmolmanchanda&theme=dark">
+<img width="390" src='https://github-readme-streak-stats.herokuapp.com/?user=anmolmanchanda&theme=dark' alt='Github stats' />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=anmolmanchanda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=anmolmanchanda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=anmolmanchanda&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml">
+<img width="390" src='https://github-readme-stats.vercel.app/api/wakatime?username=anmolmanchanda&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml' alt='Languages over last 7 days '/>
+</a>
+</div>
+
+![](https://hit.yhype.me/github/profile?account_id=18738798)
