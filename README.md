@@ -4,7 +4,7 @@
 
 ### Full Stack Software Engineer at United Nations-Habitat
 <div align="center">
-<img src="./un-habitat.png" width="50%" alt="UN-Habitat" />
+<img src="./un-habitat.png" height="50%" width="50%" alt="UN-Habitat" />
 </div>
 
 ### Hyperledger Fabric Architect & Mobile developer at Region of Waterloo - Smart Waterloo Region Innovation Lab
