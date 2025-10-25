@@ -2,12 +2,12 @@
 
 ## 💻 Cloud Architect & AI Engineer ⚙️
 
-### Full Stack Software Engineer at United Nations-Habitat
+### Full Stack Software Engineer at 
 <div align="center">
 <img src="./un-habitat.png" height="50%" width="50%" alt="UN-Habitat" />
 </div>
 
-### Hyperledger Fabric Architect & Mobile developer at Region of Waterloo - Smart Waterloo Region Innovation Lab
+### Hyperledger Fabric Architect & Mobile developer at 
 <div align="center">
 <img align="center" src="./swr-logo.jpg" width="40%" alt="SWRIL" />
 </div>
@@ -107,9 +107,8 @@ I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**
 <a href="https://github-readme-stats.vercel.app/api?username=anmolmanchanda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=anmolmanchanda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=anmolmanchanda&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml">
-<img width="390" src='https://github-readme-stats.vercel.app/api/wakatime?username=anmolmanchanda&layout=compact&theme=dark&langs_count=10&hide=json,markdown,git%20config,bash,%20other,%20xml,yaml' alt='Languages over last 7 days '/>
-</a>
+
+[![wakatime](https://wakatime.com/badge/user/9364a8c2-ddc7-4c16-a650-b9263e151997.svg)](https://wakatime.com/@9364a8c2-ddc7-4c16-a650-b9263e151997) 
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=18738798)
