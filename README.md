@@ -108,7 +108,7 @@ I design and deploy **Scalable Cloud Infrastructure** on **Amazon Web Services**
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=anmolmanchanda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/9364a8c2-ddc7-4c16-a650-b9263e151997.svg)](https://wakatime.com/@9364a8c2-ddc7-4c16-a650-b9263e151997) 
+[![Coding Time in last 7 days](https://wakatime.com/badge/user/9364a8c2-ddc7-4c16-a650-b9263e151997.svg)](https://wakatime.com/@9364a8c2-ddc7-4c16-a650-b9263e151997) 
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=18738798)
